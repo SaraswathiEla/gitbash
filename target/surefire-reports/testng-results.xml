@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="34" started-at="2023-03-10T15:54:41 IST" finished-at="2023-03-10T15:54:41 IST">
+  <suite name="Suite" duration-ms="32" started-at="2023-03-10T17:37:33 IST" finished-at="2023-03-10T17:37:33 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="34" started-at="2023-03-10T15:54:41 IST" finished-at="2023-03-10T15:54:41 IST">
+    <test name="Test" duration-ms="32" started-at="2023-03-10T17:37:33 IST" finished-at="2023-03-10T17:37:33 IST">
       <class name="gitbas1234.DemoTest">
-        <test-method status="PASS" signature="test()[pri:0, instance:gitbas1234.DemoTest@72b6cbcc]" name="test" duration-ms="4" started-at="2023-03-10T15:54:41 IST" finished-at="2023-03-10T15:54:41 IST">
+        <test-method status="PASS" signature="test()[pri:0, instance:gitbas1234.DemoTest@72b6cbcc]" name="test" duration-ms="3" started-at="2023-03-10T17:37:33 IST" finished-at="2023-03-10T17:37:33 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
